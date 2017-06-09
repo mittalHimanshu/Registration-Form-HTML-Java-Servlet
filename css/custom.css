@@ -1,0 +1,55 @@
+/* Put your custom styles here */
+.logo,
+.pg-node-id-1 {
+    width: 118px;
+    height: 45px;
+    margin-top: -6px;
+    float: left;
+    margin-left: -22px;
+}
+
+.button1,
+.pg-node-id-2 {
+    float: right;
+    margin-left: 13px;
+    position: relative;
+    margin-right: -8px;
+}
+
+.photos,
+.pg-node-id-3 {
+    margin-top: 36px;
+}
+
+.glyph,
+.pg-node-id-4 {
+    padding-top: 7px;
+}
+
+@media (min-width:300px) and (max-width:480px) {
+    .add {
+        width: 100%;
+    }
+}
+
+.logo1 {
+    margin-top: 16px;
+}
+
+.extra {
+    margin-left: 1px;
+}
+
+.fleft {
+    left: -12px;
+}
+
+.upper {
+    margin-top: -20px;
+    margin-bottom: -35px;
+    border: none;
+}
+
+.extraimg {
+    left: 14px;
+}
