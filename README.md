@@ -5,7 +5,7 @@ Backend : Java Servlets
 Database : MyMSQL
 Tool used : Pinegrow and the animations are done using AOS.css
 
-After clicking on register butoon the user will be redirected to a form in which user will give its basic information and the information will be sent to a database instance which can be verified by following credentials :
+A basic form in which user will give its basic information and the information will be sent to a database instance which can be verified by following credentials :
 
 Host : sql7.freemysqlhosting.net
 User : sql7236208
