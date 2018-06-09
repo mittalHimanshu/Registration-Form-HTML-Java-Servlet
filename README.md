@@ -1,3 +1,4 @@
+
 # Registration-Form-HTML-Java-Servlet 
 
 ## Souce code can be downloaded from :
@@ -19,3 +20,6 @@ User : sql7236208
 Password : sql7236208
 Database : sql7236208
 ```
+## Preview
+
+![registration form laptop view](https://user-images.githubusercontent.com/32336514/41193503-99febfd6-6c2a-11e8-91ee-603bad8ac6c1.jpg)
