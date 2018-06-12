@@ -1,5 +1,3 @@
-
-
 # Registration-Form-HTML-Java-Servlet 
 
 ## Souce code :
@@ -9,6 +7,7 @@ https://github.com/mittalHimanshu/Registration-Form-HTML-Java-Servlet.git
 ## Netbeans Project :
 
 https://drive.google.com/open?id=15sdONKtfYTFxTKdlqsETpQ-47Q04Ek-j
+
 ---
 
 This is my first java web application. Technologies used are :
