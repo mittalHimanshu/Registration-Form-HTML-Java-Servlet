@@ -22,7 +22,7 @@ A basic form in which user will give its basic information and the information w
 ```
 Host : sql7.freemysqlhosting.net
 User : sql7236208
-Password : sql7236208
+Password : R5kkHabXDs
 Database : sql7236208
 ```
 ---
